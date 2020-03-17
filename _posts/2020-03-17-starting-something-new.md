@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "starting something new"
 date: 2020-03-17
 ---
