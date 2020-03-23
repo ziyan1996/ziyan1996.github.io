@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.0: prerequisites"
+title: "prerequisites"
 date: 2020-03-23
 ---
 
