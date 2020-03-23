@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "starting something new"
+title: "welcome to Brgoch Group ML series"
 date: 2020-03-17
 ---
 
