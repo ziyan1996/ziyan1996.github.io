@@ -9,11 +9,11 @@ To employ ML in chemistry and materials science, first we need to gather suffici
 ![ML workflow]({{ '/assets/images/ML_workflow.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
 
-## data sources
+# data sources
 
 
 
-# materials project API
+## materials project API
 
 Materials Project is a DFT database that is easy to access. 
 
