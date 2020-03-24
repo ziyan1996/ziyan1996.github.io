@@ -14,7 +14,7 @@ select the "windows x86-64 excecutable installer"
 ![1]({{ '/assets/images/py_1.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
 
-start the installation, and for the "optional features", you can select all of them, pip will be extremely useful since it allow you to easily install other python packages in the future.
+start the installation, and for the "optional features", you can select all of them, pip will be extremely useful since it allows you to easily install other python packages in the future.
 
 ![2]({{ '/assets/images/py_2.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
