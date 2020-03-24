@@ -49,6 +49,6 @@ After you click it, you should see this page pops up in your browser.
 ![7]({{ '/assets/images/jupyter_1.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
 
-You can see "Desktop", "Download" folders here, and you should pick a place where you want to save all your machine learning files. It is very important to be organized, my suggestion is create one main folder "ML_yourname" on Desktop or wherever you like, and they build subfolders for different projects from there.
+You can see "Desktop", "Download" folders here, and you should pick a place where you want to save all your machine learning files. It is very important to be organized, my suggestion is create one main folder "ML_yourname" on Desktop or wherever you like, and then build subfolders for different projects from there.
 
 After you create your working folders, you have completed the basic setup.
