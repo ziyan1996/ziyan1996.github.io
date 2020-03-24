@@ -24,6 +24,7 @@ then you will see "advanced features", here we don't need to select all of them.
 ![python download step 3](/assets/images/py_3.png)
 *Fig 3. python installation advanced features.*
 
-## set python path to environment variable
+done!
 
 ## install anaconda on windows
+Anaconda will allow us to easily manage python libraries and perform machine learning on windows. They have very detailed documentation for installation [here](https://docs.anaconda.com/anaconda/install/windows/), just follow this step by step.
