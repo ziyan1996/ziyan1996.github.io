@@ -11,7 +11,7 @@ Unlike most Unix systems and services, Windows does not include a system support
 
 select the "windows x86-64 excecutable installer"
 
-![1](../assets/images/py_1.png)
+![1](/assets/images/py_1.png)
 *Fig 1. python releases for windows.*
 
 start the installation, and for the "optional features", you can select all of them, pip will be extremely useful since it allow you to easily install other python packages in the future.
