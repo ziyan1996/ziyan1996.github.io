@@ -25,8 +25,15 @@ Another situation you will probably encounter is that you are working with more 
 
 We'll start with Materials Project because it is just so easy to work with. 
 
-1. sign in with your account, get api key
+1. First, go to the Materials Project [website](https://materialsproject.org/), and create your account.
+
+![mp-1]({{ '/assets/images/mp_1.png' | relative_url }})
+{: style="width: 300px; max-width: 100%;"}
+
+After you have an account and logged in, go to "dashboard" at the top right corner, and you will be able to see your API keys.
+
 2. example: extract formation energy data
+
 3. be familiar with api documentation: what other properties are available
 `(api keys)`
 > blockquote
