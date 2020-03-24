@@ -15,6 +15,12 @@ select the "windows x86-64 excecutable installer"
 {: style="width: 400px; max-width: 100%;"}
 *Fig 1. python releases for windows.*
 
+start the installation, and for the optional features, you can select all of them, pip will be extremely useful since it allow you to easily install other python packages in the future.
+
+![python download step 2]({{ '/assets/images/py_2.png' | relative_url }})
+{: style="width: 400px; max-width: 100%;"}
+*Fig 2. python installation optional features.*
+
 ## set python path to environment variable
 
 ## install anaconda on windows
