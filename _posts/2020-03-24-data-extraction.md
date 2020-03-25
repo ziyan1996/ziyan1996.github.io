@@ -35,7 +35,14 @@ API is short for application programming interface, basically it allows third pa
 
 - How to use the python API
 
-Open jupyter notebook and create a new notebook.
+First, we need to install [pymatgen](https://pymatgen.org/index.html). It is the python library that Materials Project developed for materials analysis. Open the Anaconda Prompt:
+
+![prompt]({{ '/assets/images/prompt.png' | relative_url }})
+{: style="width: 300px; max-width: 10%;"}
+
+And then simply type "pip install pymatgen" and hit enter, the installation will start.
+
+After installing pymatgen, open jupyter notebook and create a new notebook.
 
 ![ju-1]({{ '/assets/images/jupyter_2.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
@@ -45,7 +52,8 @@ Always name it before starting to put code in (remember to be organized, don't j
 ![ju-1]({{ '/assets/images/jupyter_3.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
 
-Copy and paste the following code to your notebook
+Copy and paste the following code to your notebook, it is an example of how to extract formation energy from the database.
+
 `from pymatgen import MPRester
 MAPI_KEY = "your api key"
 m = MPRester(MAPI_KEY)
