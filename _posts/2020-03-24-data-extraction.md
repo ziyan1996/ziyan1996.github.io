@@ -9,12 +9,13 @@ To employ ML in chemistry and materials science, first we need to gather suffici
 ![ML workflow]({{ '/assets/images/ML_workflow.png' | relative_url }})
 {: style="width: 300px; max-width: 100%;"}
 
-## data sources
+# data sources
 
 Depend on everyone's specific project, in our group we actually get our data from very different sources. So far, we have mainly two options:
 
-a. from DFT databases (you will see instructions of how to use these databases later)
-b. from literature
+*a. from DFT databases (you will see instructions of how to use these databases later)*
+
+*b. from literature*
 
 In practice, first thing you need to think about is always where to find sufficient amount of training data. For example, I use to work on building ML models to predict the formation energy of a certain composition. In this case, the formation energy data is available in DFT databases such as [Materials Project](https://materialsproject.org/), [AFLOW](http://aflowlib.org/) and [OQMD](http://oqmd.org/) since it can be easily calculated, so I can simply extract the formation energy data following the database's instruction. 
 
@@ -54,7 +55,7 @@ Always name it before starting to put code in (remember to be organized, don't j
 
 Copy and paste the following code to your notebook, it is an example of how to extract formation energy from the database.
 
-**from pymatgen import MPRester
+**from pymatgen import MPRester**
 
 **MAPI_KEY = "your API key"**
 
