@@ -28,7 +28,7 @@ We'll start with Materials Project because it is just so easy to work with.
 - First, go to the Materials Project [website](https://materialsproject.org/), and create your account.
 
 ![mp-1]({{ '/assets/images/mp_1.png' | relative_url }})
-{: style="width: 300px; max-width: 100%;"}
+{: style="width: 300px; max-width: 50%;"}
 
 After you have an account and logged in, go to "Dashboard" at the top right corner, and you will be able to see your **API keys**.
 API is short for application programming interface, basically it allows third party (like us) to access and operate the database.
@@ -46,7 +46,7 @@ Always name it before starting to put code in (remember to be organized, don't j
 {: style="width: 300px; max-width: 100%;"}
 
 Copy and paste the following code to your notebook
-
+`api keys`
 
 
 3. be familiar with api documentation: what other properties are available
