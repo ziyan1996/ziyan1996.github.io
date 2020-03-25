@@ -1,2 +1,2 @@
-## ziyan's log
+## ziyan's notebook
 
