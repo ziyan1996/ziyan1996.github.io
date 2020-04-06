@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "data-representation"
+title: "data representation"
 date: 2020-04-06
 ---
 
@@ -26,6 +26,7 @@ Then open comp_descriptors.ipynb in your jupyter notebook, follow each code bloc
 
 There are two ways to incorporate structural information in descriptors. First is you can use properties like space group numbers, lattice parameters as descriptors, similar as compositional descriptors mentioned above. The other ways is use crystal structures completely, use the cif files as data representation.
 
-The first approach requires gathering related information and form them into muti-dimentional vectors same as compositional descriptors, and the second approach is a bit more tricky because reading cif files is not as straightforward as constructing a data frame that simply contain numerous structural informations.
+The first approach requires gathering related information and form them into muti-dimentional vectors same as compositional descriptors, for example I'm going to reference Ya's work on Debye temperatures, where if you go to [supporting information](https://www.nature.com/articles/s41467-018-06625-z#additional-information) you can see a list of descriptors including structural descriptors.
 
-[Crystal Graph Convolutional Neutal Network](https://github.com/txie-93/cgcnn)
+The second approach is a bit more tricky because reading cif files is not as straightforward as constructing a data frame that simply contain numerous structural properties. There is one research work that I think it's the most informative and pioneering of the field, please check the [Crystal Graph Convolutional Neutal Network](https://github.com/txie-93/cgcnn). It takes cif files as data representations and has very well documented instructions of how to use it.
+
