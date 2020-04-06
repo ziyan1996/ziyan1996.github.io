@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "matminer data retrieval"
-date: 2020-04-06
+date: 2020-04-03
 ---
 
 ## Data collection from other DFT databases
