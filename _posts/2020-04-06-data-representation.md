@@ -14,3 +14,10 @@ For example, we know Ca is calsium but it doesn't make any sense to computers. T
 
 *based on domain knowledge (this is where it gets very creative I guess)*
 
+## compositional descriptors
+
+Basic elemental properties can be used to develop compositional descriptors (*e.g.*, atomic numbers, electronegativity). To produce a set of compositional descriptors for a given composition, see the following steps:
+
+First, download three files [here](https://github.com/ziyan1996/ziyan1996.github.io/tree/master/scripts%20and%20files), comp_descriptors.ipynb, MSE_ML_functionMod1.py and elementsnew.xlsx, place them in the same folder.
+
+Then open comp_descriptors.ipynb in your jupyter notebook, follow each code block, you will be able to generate compositional descriptors for your compounds.
