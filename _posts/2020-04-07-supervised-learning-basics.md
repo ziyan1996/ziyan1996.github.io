@@ -8,7 +8,9 @@ Supervised learning is the machine learning task of learning a function that map
 Supervised learning tasks have two general catagories: classification and regression. A classification task aims to identify which category an object belongs to. A regression task predicts a continuous-valued attribute associated with an object.
 
 test:
+
 -sjsjsj
+
 -sksks
 
 ## classification
