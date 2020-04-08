@@ -24,8 +24,8 @@ h1 {
     font-family:'Sans-Serif';
 }
 p {
-    font-size: 1em;
-    line-height: 1.2em;
+    font-size: 1.2em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -35,7 +35,7 @@ footer {
 
 ul.posts { 
     margin: 80px auto 160px; 
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
